@@ -1,0 +1,2376 @@
+
+@media (min-width: 3000px) and (max-width: 5000px) {
+
+.banner_box img {
+    height: 788px;
+    background-position: top;
+}
+}
+ 
+ 
+  
+  
+@media (min-width: 991px) and (max-width: 5000px) 
+{
+.nav_top .dropdown .dropdown-menu { -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;transition: all 0.3s; max-height: 0; display: block; opacity: 0;visibility: hidden;  margin:0px; border: none; 
+    background:#fff !important;
+    width: 167px; padding: 0px;
+   border-radius: 0 0 8px 8px; left: 0; right: inherit; padding: 5px 6px 6px; box-shadow: inherit;top: 47px !important; 
+padding: 0 !important; padding-bottom: 10px !important;}
+
+.nav_top .dropdown:hover .dropdown-menu { max-height: 300px;opacity: 1; visibility: visible; }
+
+
+.menu_sec .dropdown .dropdown-menu li{ position: relative;}
+.menu_sec .dropdown-submenu .dropdown-menu{ max-height: 0;
+display: block;
+opacity: 0 !important;
+visibility: hidden !important;
+left: 100%;
+top: 83% !important;
+}
+.menu_sec .dropdown-submenu:hover > .dropdown-menu {
+    visibility: visible !important;
+    opacity: 1 !important;}
+.menu_sec .dropdown-submenu .dropdown-menu li:hover a{color: #fff !important;}
+
+
+.menu_sec .dropdown-submenu .dropdown-menu li a{color: #4d5154;}
+.menu_sec .dropdown-submenu .dropdown-menu li a:hover{color: #fff;} 
+
+
+
+
+
+}
+/*-----24.07.21----- sayanti das----*/
+@media only screen and (min-width: 1700px) {
+    .login-footer.footer_sec {
+    margin-top: 40px;
+}
+    }
+
+@media only screen and (max-width: 1399px) {
+
+.container{max-width: 1200px;}
+
+/* What makes V-Tutor special? */
+.makes_special_sec::before{width: 105px;
+height: 254px;}
+.makes_special_sec::after{width: 356px;
+height: 282px;}
+.makes_faq h5 {
+    font-size: 32px;
+    line-height: 43px;
+    margin-bottom: 3px;
+}
+.meet_tutors_sec::after{ width: 147px;
+height: 148px;}
+.top_reasons_sec{padding: 97px 0 89px;}
+.top_reasons_sec::befor{width: 585px;
+height: 661px;}
+.find_tutors_inr{padding-left: 0;}
+.meet_tutors_bg img{width: 80px;}
+
+
+
+
+.profile_left_panel{
+    width: 30%;
+}
+.profile-top em{
+    width: 150px;
+    height: 150px;
+    }
+.profile_right_panel {
+    width: calc(70% - 35px);
+}
+.profile_body{
+    padding: 25px;
+}
+.profile-heading{
+    font-size: 23px;
+    line-height: 25px;
+}
+  
+/*-----24.07.21----- sayanti das----*/
+.login-info{
+    width: 62.8%;
+}
+section.login-body.tutor-body .login-info{
+    width: 62.1%;
+}
+.login-body.studant-body .login-info {
+    width: 64%;
+}
+
+/*24/07/21/puja*/
+
+/*tutor-search-result page*/
+.lop_name_para {
+    padding-right: 40px;
+}
+
+
+
+}  
+  
+/*  1399px*/
+/*-----24.07.21----- sayanti das----*/
+ @media only screen and (max-width: 1299px){
+.login-info {
+    width: 63.8%;
+} 
+section.login-body.tutor-body .login-info {
+    width: 63.0%;
+}
+.login-body.studant-body .login-info {
+    width: 65.5%;
+}
+}
+@media only screen and (max-width: 1199px) {
+
+
+.container{max-width: 960px;}
+.page_hed h1, .page_hed h2, .page_hed h3, .page_hed h4, .page_hed h5, .page_hed h6 {
+    font-size: 30px;
+    line-height: 48px;
+}
+.page_hed p {
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: 16px;
+}
+
+/* header */
+.menu_sec > li{font-size: 14px;}
+.menu_sec .dropdown-menu li {
+    font-size: 14px;
+}
+.pg_btn{font-size: 14px;}
+.header_sec .container{max-width: 100%;}
+.menu_sec > li{padding: 0 5px;}
+.menu_sec > li {
+    font-size: 13px;
+}
+
+.menu_sec {
+    padding-right: 241px;
+}
+/* bannersec */
+.banner_tex strong{font-size: 40px; line-height: 46px;}
+.banner_tex b{font-size: 26px;line-height: 38px;}
+.ler_mor{font-size: 16px;}
+
+/* Find Tutors */
+.find_tutors_inr{padding-left: 0;}
+.find_drop li, .find_select select{font-size: 20px;}
+.find_select select option{font-size: 14px;}
+
+/* How does it work? */
+.how_work_box p br{display: none;}
+.how_work_box h4{font-size: 18px;
+line-height: 23px;margin-top: 19px;}
+.how_work_img img{width: 100px;}
+.how_work_inr::before{width: 523px;
+height: 80px;}
+.how_work_sec {
+    padding: 48px 0 53px;
+}
+
+/* What makes V-Tutor special? */
+.makes_faq{padding-left: 0px;}
+.makes_faq h5 {
+    font-size: 26px;
+    line-height: 32px;
+    margin-bottom: 2px;
+}
+.makes_faq_bx .btn-link{font-size: 15px;}
+.makes_faq_bx .card-body p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 8px;
+}
+.makes_special_inr::before{background-size: 100%;width: 66px;
+height: 56px;}
+.bg_makes img{width: 100px;}
+
+/* Top reasons to choose V-Tutor */
+.top_reasons_sec::before{width: 306px;
+height: 475px;}
+.top_reasons_sec {
+    padding: 60px 0 50px;
+}
+.top_reasons_box span {
+    width: 86px;
+    height: 86px;
+}
+.top_reasons_box::before{width: 80px;
+height: 68px;}
+.top_reasons_box::after{
+width: 40px;
+height: 46px;
+}
+.meet_tutors_sec::after{display: none;}
+.top_reasons_box{padding: 30px 28px 15px;min-height: 300px;}
+.top_reasons_box h5{margin-top: 16px;
+font-size: 19px;
+line-height: 26px;}
+.top_reasons_box p {
+    margin-top: 13px;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+/* Meet our tutors */
+.meet_tutors_sec{padding: 53px 0 23px;}
+.meet_tutors_bg img {
+    width: 40px;
+}
+.meet_tutors_bg {
+    bottom: 40px;
+    right: 0;
+}
+.meet_tutors_inr::before{width: 44px;
+height: 79px;}
+
+/* Tutors - Why you should join our team? */
+.team_sec {
+    padding: 66px 0 55px;
+}
+.team_sec .page_hed {
+    padding-bottom: 40px;
+    background-size: 40px;
+}
+.team_inr::before{position: absolute;
+left: 0;
+width: 260px;
+height: 454px;
+top: -18px;
+left: -42px;
+}
+.team_box span {
+    padding: 23px 0 16px;
+    width: 56px;
+    font-size: 18px;
+}
+.team_box{padding: 0 20px 10px;min-height: 195px;}
+.team_box h5 {
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.team_box p {
+    font-size: 14px;
+    line-height: 23px;
+    margin-top: 6px;
+}
+.team_btn .pg_btn {
+    line-height: 40px;
+    height: 40px;
+    padding: 0 9px;
+    font-size: 14px;
+}
+
+/* class_time */
+.class_time_iner {
+    padding: 80px 0 65px;
+}
+.class_time_bx h5{font-size: 21px;
+line-height: 35px;}
+.class_time_bx p {
+    font-size: 15px;
+    line-height: 17px;
+    margin-top: 4px;
+}
+
+/* footer */
+.footer_sec::before{top: -65px;}
+.foot_sos_box li a {
+    width: 30px;
+    height: 30px;
+}
+.foot_bx li{font-size: 14px}
+.foot_bx h4{margin-bottom: 7px;}
+
+
+
+.profile-top em {
+    width: 130px;
+    height: 130px;
+}
+.profile-top h2 {
+    font-size: 20px;
+    margin: 10px 0px 5px 0;
+}
+.profile-rating{
+    margin: 10px 0px 5px 0;
+}
+.profile-top .addr , .profile-top .exp , .profile-bottom p{
+    font-size: 13px;
+}
+.profile-bottom {
+    padding: 5px 10px 15px;
+}
+.profile-bottom h6 {
+    font-size: 18px;
+    margin-top: 15px;
+}
+.pub_btns a{
+    font-size: 15px;
+    
+    height: 42px;
+    line-height: 43px;
+}
+.profile_body {
+    padding: 20px;
+}
+.profile-heading {
+    font-size: 21px;
+    line-height: 23px;
+}
+/*-----24.07.21----- sayanti das----*/
+
+.or-area{
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+.fort-pass a{
+    margin-top: 15px;
+}
+.bottom-account-div {
+    margin: 24px 0 40px 0;
+    }
+.login-info{
+    min-height: 515px;
+}
+.login-info:after{
+    top: 80%;
+}
+.login-info{
+    width: 62.6%;
+
+}
+.login-details{
+    margin: 20px 0;
+    margin-left: 40px;
+}
+.login-details h2 {
+    font-size: 23px;
+    margin-bottom: 2px;
+}
+.upper-login {
+    margin-bottom: 0;
+}
+.login-info:before{
+    top: 82px;
+}
+.login-from {
+    margin-top: 30px;
+}
+.form_area{
+    margin-bottom: 10px;
+}
+
+    .login-footer.footer_sec {
+    margin-top: 27px;
+}
+section.login-body.tutor-body .login-info {
+    min-height: 648px;
+}
+.login-info:after {
+    top: 81%;
+}
+section.login-body.tutor-body .login-info {
+    width: 61.7%;
+}
+.im-sec h3{
+    font-size: 17px;
+}
+.im-sec input[type="radio"] + label{
+    font-size: 16px;
+}
+.login-body.studant-body .login-info {
+    min-height: 725px;
+}
+.login-body.studant-body .login-info {
+    width: 63.8%;
+}
+
+/*24/07/21/puja*/
+
+/*tutor-search-result page*/
+.find_drop li, .find_select select {
+    font-size: 19px;
+}
+.find_btn .pg_btn{font-size: 16px;}
+
+.mobile_filter_as {
+    display: block;
+    margin-top: 20px;
+}
+.search_left_inr{display: none;
+-webkit-box-shadow: 6px 0px 6px -5px rgba(147,164,209,0.15);
+-moz-box-shadow: 6px 0px 6px -5px rgba(147,164,209,0.15);
+box-shadow: 6px 0px 6px -5px rgba(64, 73, 95, 0.15);
+padding:20px 15px;
+margin-top: 4px;}
+.search_result_left{width: 100%;
+position: relative;
+height: auto;
+box-shadow: none;
+padding-bottom: 10px;}
+.search_right_body{padding-left: 0;}
+.search_result_right{float: left;width: 100%;}
+.search_result_right{padding-bottom: 28px;}
+.pagi_cc {
+    margin-top: 23px;
+}
+.page-link{width: 34px;
+height: 34px;
+line-height: 34px;font-size: 15px;}
+.lop_name_para{padding-top: 0;}
+.search_right_top{padding-left: 0;}
+
+
+.form_box_area label, .checkBox.new-cus span {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 4px;
+}
+.user-right-top {
+    padding: 20px 10px;
+}
+.checkBox.new-cus{
+    margin-bottom: 10px;
+}
+
+.form_box_area {
+    margin-bottom: 12px;
+}
+[tooltip]:not([flow])::before, [tooltip]:not([flow])::after, [tooltip][flow^="up"]::before, [tooltip][flow^="up"]::after {
+    left: 0;
+}
+[tooltip]::after {
+    content: attr(tooltip);
+    font-size: 12px;
+    line-height: 17px;
+    width: 18em;
+    }
+.user-left-top {
+    padding: 20px 10px;
+}
+.dash-btn{
+    margin-top: 22px;
+    font-size: 17px;
+}
+.new_rows.no-gutters > .col, .new_rows.no-gutters > [class*="col-"] {
+    padding-right: 10px;
+    padding-left: 0px;
+}
+ul.pagination.new-pagination .page-link {
+    width: 33px;
+    font-size: 14px;
+    height: 33px;
+    line-height: 33px;
+}
+.account-area-tutor .subj_ul li b {
+    padding: 0 6px;
+    font-size: 12px;
+}
+.account-area-tutor {
+    margin-top: 15px;
+    margin-bottom:7px;
+}
+.account-area-tutor .meet_tutors_items{
+    padding: 20px 10px 10px;
+    min-height: 325px;
+}
+.user-right-top-ness {
+    padding: 20px 15px;
+}
+.account-area-tutor .meet_tutors_text h4 {
+    font-size: 18px;
+    margin-top:16px;
+}
+.user-right-top-ness .account-area-tutor .meet_tutors_text p {
+    font-size: 13px;
+    line-height: 16px;
+    margin-top: 1px;
+}
+.account-area-tutor .ret_ul {
+    margin-top: 3px;
+}
+.account-area-tutor .subj_ul {
+    margin-top: 7px;
+}
+.user-right-top-ness p , .user-right-top-new p{
+    font-size: 14px;
+    line-height: 18px;
+}
+.dash-hr {
+    margin: 5px;
+    }
+.account-area-tutor .meet_tutors_text small {
+    font-size: 15px;
+    margin-top: 5px;
+}
+}
+/*1199px*/
+
+
+
+@media only screen and (max-width: 1170px){
+    /*-----24.07.21----- sayanti das----*/
+    .login-info {
+    width: 62.7%;
+}
+section.login-body.tutor-body .login-info {
+    width: 62%;
+}
+.login-body.studant-body .login-info {
+    width: 63.9%;
+}
+}
+@media only screen and (max-width: 1130px){
+    /*-----24.07.21----- sayanti das----*/
+    .login-info {
+    width: 63.5%;
+}
+section.login-body.tutor-body .login-info {
+    width: 62%;
+}
+.login-body.studant-body .login-info {
+    width: 64.7%;
+}
+}
+@media only screen and (max-width: 1100px){
+    /*-----24.07.21----- sayanti das----*/
+    .login-info {
+    width: 63.8%;
+}
+section.login-body.tutor-body .login-info {
+    width: 62.8%;
+}
+.login-body.studant-body .login-info {
+    width: 65%;
+}
+}
+
+@media only screen and (max-width: 1050px){
+    /*-----24.07.21----- sayanti das----*/
+    .login-info {
+    width: 64%;
+}
+section.login-body.tutor-body .login-info {
+    width: 63.4%;
+}
+.login-body.studant-body .login-info {
+    width: 66%;
+}
+}
+@media only screen and (max-width: 1021px){
+    /*-----24.07.21----- sayanti das----*/
+    .login-info {
+    width: 64.7%;
+}
+section.login-body.tutor-body .login-info {
+    width: 63.8%;
+}
+.login-body.studant-body .login-info {
+    width: 66.5%;
+}
+}
+
+@media only screen and (max-width: 991px) {
+
+.page_hed p {
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+.nav_top .navbar-toggler{ border-color: #b8110b; background: #b8110b; outline: none !important;}
+.nav_top .navbar-toggler{ padding: 10px; margin-right: 0;}
+.nav_top .navbar-toggler .icon-bar {display: block;width: 22px;height: 2px;  border-radius: 1px; background-color: #fff;}
+.nav_top .navbar-toggler .icon-bar + .icon-bar {  margin-top: 4px;}
+.navbar-toggler .icon-bar { display: block;  width: 22px;  height: 2px;  border-radius: 1px;  background-color: #fff;}
+.navbar-toggler { margin-right: 15px;}
+.navbar-toggler { padding: 10px;}
+
+.nav_top .navbar-toggler {border-color: #b8110b;background: #b8110b; margin: 15px 15px 15px 0;
+border-radius: 6px !important;}
+.nav_top .navbar-toggler.showtoggle .icon-bar:nth-child(1) {-ms-transform: matrix(1, -1, 0, 1, 0, 0); transform: matrix(1, -1, 0, 1, 0, 0); 
+	 -webkit-transform: matrix(1, -1, 0, 1, 0, 0); width: 25px;}
+.nav_top .navbar-toggler.showtoggle .icon-bar:nth-child(2) { opacity: 0;  width: 0px;}  
+.nav_top .navbar-toggler.showtoggle .icon-bar:nth-child(3) {-ms-transform: matrix(1, 1, 0, 1, 0, 0); transform: matrix(1, 1, 0, 1, 0, 0); -webkit-transform: matrix(1, 1, 0, 1, 0, 0);
+width: 25px;  margin-top: -11px;} 
+.nav_top .navbar-toggler .icon-bar { display: block; width: 30px; height: 2px; border-radius: 3px; background-color: #fff; opacity: 1;
+    transform: matrix(1, 0, 0, 1, 0, 0); -moz-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out;}
+.nav_top .navbar-toggler { width: 45px; height: 40px; text-align: center; -moz-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; border-radius: 0px;
+    border: 0px solid transparent; border-top-color: transparent;border-right-color: transparent;    border-bottom-color: transparent;
+        border-left-color: transparent; position: relative;}
+.nav_top .navbar-toggler {padding: 5px 8px;}
+.nav_top .navbar-toggler .icon-bar + .icon-bar {margin-top: 8px;}
+.nav_top .navbar-toggler.showtoggle {padding-left: 10px !important;}
+
+.header_sec .container{padding: 0;}
+.header_sec .navbar-brand{margin-left: 15px;}
+.header_sec .navbar-collapse{position: absolute; width: 100%; background: #fff; top: 100%; left: 0; z-index: 99;}
+
+.container{max-width: 740px;}
+/*header*/
+.hed_btn{right: 70px;}
+.menu_sec{padding: 10px 0;}
+.menu_sec > li{width: 100%;}
+.nav_top .dropdown .dropdown-menu{width: 100%;}
+
+.menu_sec > li > a{width: 100%; margin-left: 0 !important; padding-top: 4px; padding-bottom: 4px;}
+.dropdown span{position: absolute; right: 15px;
+top: 0;}
+.menu_sec > li {
+    padding: 0 15px;
+    font-size: 14px;
+}
+
+
+/* bannersec */
+.banner_box img {
+    height: 338px;
+}
+.banner_tex strong {
+    font-size: 30px;
+    line-height: 41px;
+}
+.banner_tex b {
+    font-size: 18px;
+    line-height: 34px;
+    margin-top: 0;
+}
+.ler_mor {
+    font-size: 15px;
+    margin-top: 7px;
+}
+.find_tutors_inr .col-sm-3
+{-ms-flex: 0 0 50% !important;
+flex: 0 0 50% !important;
+max-width: 50% !important;
+margin-top: 4px;}
+
+/* How does it work? */
+.how_work_sec {
+    padding: 36px 0 43px;
+}
+.how_work_img img {
+    width: 63px;
+}
+.how_work_inr::before {
+    width: 441px;
+    height: 66px;
+}
+.how_work_box h4 {
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 15px;
+}
+.how_work_box p {
+    font-size: 15px;
+    line-height: 23px;
+    margin-top: 12px;
+}
+.makes_special_sec {
+    padding: 50px 0 44px;
+}
+.makes_special_inr .col-sm-6{-ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%;}
+.makes_faq{margin-top: 40px;}
+.makes_faq h5 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: -1px;
+}
+.makes_special_sec::after {
+    width: 265px;
+    height: 211px;
+}
+.makes_special_sec::before {
+    width: 60px;
+    height: 171px;
+}
+
+/* Top reasons to choose V-Tutor */
+
+.top_reasons_sec {
+    padding: 45px 0 50px;
+}
+.top_reasons_box {
+    padding: 30px 11px 15px;
+}
+.top_reasons_box h5 {
+    margin-top: 15px;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+/* Meet our tutors */
+.meet_tutors_sec {
+    padding: 37px 0 0;
+}
+.meet_tutors_inr::before {
+   left: 0;
+}
+.meet_tutors_img span::before {
+    left: 51%;
+    top: -18px;
+}
+.meet_tutors_text h4 {
+    font-size: 18px;
+    margin-top: 25px;
+}
+.ret_ul {
+    margin-top: 15px;
+}
+
+/* How did we do? */
+.how_did_we_do{padding: 30px 0 30px}
+
+
+/*footer*/
+.footer_sec::before {
+    top: -52px;
+}
+
+.foot_top_inr .col-sm-3:first-child{border-right:0;}
+.foot_top_inr .col-sm-3{
+    -ms-flex: 0 0 33.3333%;
+flex: 0 0 33.3333%;
+max-width: 33.3333%;
+}
+.foot_top_inr .col-sm-3:last-child {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.foot_bx {
+    width: 100%;
+    padding-bottom: 18px;
+}
+.foot_sos_box{padding-bottom: 40px;}
+.foot_top_inr .col-sm-3:nth-child(2) .foot_bx, .foot_top_inr .col-sm-3:nth-child(3) .foot_bx {
+    padding-left: 50px;
+}
+.how_did_inr_img .media-body h6 {
+    font-size: 16px;
+}
+.how_did_inr_img .media-body p {
+    font-size: 14px;
+}
+.team_inr::before {
+    top: -18px;
+    left: -12px;
+}
+
+
+
+.profile-top em {
+    width: 100px;
+    height: 100px;
+}
+.profile-top h2 {
+    font-size: 20px;
+    margin: 10px 0px 5px 0;
+}
+.profile-rating{
+    margin: 10px 0px 5px 0;
+}
+.profile-top .addr , .profile-top .exp , .profile-bottom p{
+    font-size: 12px;
+}
+.profile-bottom {
+    padding: 5px 10px 15px;
+}
+.profile-bottom h6 {
+    font-size: 16px;
+    margin-top: 15px;
+}
+.pub_btns a{
+    font-size: 15px;
+    height: 38px;
+    line-height: 38px;
+}
+.pub_btns {
+    margin-top: 10px;
+}
+.social_iic01{
+    margin-top: 10px;
+}
+.profile_body {
+    padding: 20px 15px;
+}
+.profile-heading {
+    font-size: 18px;
+    line-height: 22px;
+}
+.skill_tutor li {
+    margin-right: 4px;
+    padding: 4px 9px;
+    font-size: 13px;
+    }
+.skill {
+    margin-bottom: 20px;
+}
+.about-pro p {
+    font-size: 13px;
+    line-height: 22px;
+}
+.profile_body iframe {
+    min-height: 270px;
+}
+.aca_qua {
+    margin-top: 15px;
+    padding-bottom: 12px;
+}
+.aca_qua img {
+    width: 30px;
+    height: 30px;
+    margin-right: 7px;
+}
+.academic-details h3 {
+    font-size: 15.5px;
+    margin-bottom: 4px;
+}
+.academic-details h4{
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+.academic-details h5{
+    font-size: 13px;
+}
+.academic-details p {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 4px;
+}
+.test-heading {
+    display: block;
+    }
+.rating-overview{
+    margin-top: 8px;
+}
+.rating-overview span {
+    width: 44px;
+    height: 24px;
+    font-size: 12px;
+}
+.rating-overview span img {
+    width: 12px;
+}
+.rating-overview p {
+    margin-left: 6px;
+    font-size: 13px;
+}
+.test-heading{
+    padding-bottom: 10px;
+}
+.testimonail-user-sec p span , .testi-details p{
+    margin-right: 7px;
+}
+.testimonail-heading-part{
+    display: block;
+}
+.testimonail-heading-part h3{
+    font-size: 15px;
+    line-height: 17px;
+    margin-bottom: 5px;
+}
+.testi-details p{
+    line-height: 18px;
+    font-size: 12px;
+}
+.moreless-button5 {
+    font-size: 15px;
+    margin-top: 10px !important;
+}
+.profile_right_panel {
+    width: calc(68% - 20px);
+    margin-left: 20px;
+}
+.profile_left_panel {
+    width: 32%;
+}
+.profile-bottom p span img{
+    width: 14px;
+}
+.profile-bottom p span {
+    margin-right: 2px;
+}
+.profile-top {
+    padding: 20px 15px 5px 15px;
+}
+.dark-area{
+    height: 150px;
+}
+.zin{
+    margin: 0;
+}
+
+/*-----24.07.21----- sayanti das----*/
+.texxt_box , .submit-login , .common-btns{
+    height: 45px;
+}
+.or-area{
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+.fort-pass a{
+    margin-top: 15px;
+}
+.login-info{
+    min-height: 475px;
+}
+.login-info:after{
+    top: 85%;
+}
+.login-info{
+    width: 64%;
+
+}
+.login-details{
+    margin: 20px 0;
+    margin-left: 40px;
+}
+.login-details h2 {
+    font-size: 23px;
+    margin-bottom: 2px;
+}
+.upper-login {
+    margin-bottom: 0;
+}
+.login-info:before{
+    top: 82px;
+}
+.login-from {
+    margin-top: 30px;
+}
+.form_area{
+    margin-bottom: 10px;
+}
+.bottom-account-div {
+    margin: 20px 0 30px 0;
+    }
+    .login-footer.footer_sec {
+    margin-top: 27px;
+}
+section.login-body.tutor-body .login-info {
+    min-height: 595px;
+}
+section.login-body.tutor-body .login-info {
+    width: 64%;
+}
+.login-body.studant-body .login-info {
+    min-height: 687px;
+}
+.login-body.studant-body .login-info:after {
+    top: 91%;
+}
+.login-body.studant-body .login-info {
+    width: 67%;
+}
+
+
+/*24/07/21/puja*/
+
+/*tutor-search-result page*/
+.search_right_top h6, .search_right_top h1{font-size: 16px;}
+.search_lop_name{width: 63%;
+padding-bottom: 10px;}
+.search_lop_name_list {
+    width: 37%;
+    padding-right: 5px;
+}
+
+.menu_sec .dropdown .dropdown-menu li{ position: relative;}
+.menu_sec .dropdown-submenu .dropdown-menu{ max-height: 0;
+display: block;
+opacity: 0 !important;
+visibility: hidden !important;
+left: 100%;
+top: 83% !important;
+}
+.menu_sec .dropdown-submenu:focus > .dropdown-menu {
+    visibility: visible !important;
+    opacity: 1 !important;}
+.menu_sec .dropdown-submenu .dropdown-menu li:hover a{color: #fff !important;}
+
+
+.menu_sec .dropdown-submenu .dropdown-menu li a{color: #4d5154;}
+.menu_sec .dropdown-submenu .dropdown-menu li a:hover{color: #fff;} 
+.menu_sec .dropdown-submenu:focus > .dropdown-menu.show{display: block;}
+
+section.login-body.tutor-body .login-info:after {
+    top: 89%;
+}
+.showmeu{
+    display: block;
+}
+.dasbordLeft{
+    display: none;
+}
+.user-left , .user-right-panel{
+    width: 100%;
+    }
+ .user-right-panel{
+    margin-top: 15px;
+ }
+.user-account {
+    padding: 20px 15px;
+}
+.user-left.sticky_left{
+    position: inherit;
+}
+.showmeu i{
+    margin-right: 10px;
+}
+.user-right-top {
+    padding: 20px 15px;
+}
+.login_menu {
+    right: 75px;
+}
+.das-hr {
+    margin-left: 0;
+    margin-right: 0;
+    }
+.user-left-top {
+    width: 40%;
+    float: left;
+    padding: 25px 15px;
+    border-bottom: 0;
+}
+.new-lft-bottom {
+    width: 60%;
+    float: right;
+    border-left: 1px solid #ccc;
+}
+.user-left-info{
+    margin-top: 3px;
+}
+.user-left-menu ul li a, .log-menu ul li a {
+    padding: 4px 0;
+    font-size: 15px;
+    }
+.only_shawo {
+    display: none !important;
+}
+.small_screen31 {
+    margin-bottom: 15px;
+    width: 50%;
+    float: left;
+    border: 1px solid #eaeaea;
+    padding: 0;
+}
+.tab_head_sheet_1 {
+    padding: 3px 7px;
+    height: auto;
+    display: initial !important;
+    float: left;
+    width: 100% !important;
+    text-align: left;
+    /* border-top: 1px solid #eaeaea; */
+    min-height: 37px;
+    border-bottom: 1px solid #eaeaea;
+}
+.W55_1 {
+    display: inline-block;
+    width: 100%;
+    float: left;
+    font-size: 14px;
+    color: #9d9fa2;
+    line-height: 23px;
+    font-weight: 500;
+}
+.account-area-tutor .meet_tutors_items{
+        padding: 20px 10px 10px;
+        min-height: 335px;
+}
+ul.pagination.new-pagination .page-link {
+    width: 33px;
+    font-size: 14px;
+    height: 33px;
+    line-height: 33px;
+}
+.user-right-top-ness {
+    padding: 20px 15px;
+}
+.user-right-top-ness p , .user-right-top-new p{
+    font-size: 14px;
+    line-height: 18px;
+}
+.dash-hr {
+    margin: 5px;
+    }
+    .account-area-tutor {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.account-area-tutor .meet_tutors_text h4 {
+    font-size:18px;
+    margin-top: 20px;
+}
+.user-right-top-ness .account-area-tutor .meet_tutors_text p {
+    margin-top:1px;
+    font-size: 13px;
+}
+.account-area-tutor .subj_ul li b{
+    font-size: 12px;
+}
+.account-area-tutor .ret_ul {
+    margin-top: 2px;
+}
+.account-area-tutor .subj_ul {
+    margin-top: 3px;
+}
+.account-area-tutor .meet_tutors_text small {
+    font-size: 14.5px;
+}
+}
+/*991*/
+
+
+
+
+
+@media only screen and (min-width: 767px) and (max-width: 991px){
+[tooltip]:not([flow])::before, [tooltip]:not([flow])::after, [tooltip][flow^="up"]::before, [tooltip][flow^="up"]::after {
+    left: 0;
+}
+[tooltip]::after {
+    content: attr(tooltip);
+    font-size: 12px;
+    line-height: 17px;
+    width: 11em;
+    }
+   
+}
+
+/*991px*/
+@media only screen and (max-width: 915px){
+    /*-----24.07.21----- sayanti das----*/
+    .login-info {
+    width: 65%;
+}
+section.login-body.tutor-body .login-info {
+    width: 65%;
+}
+.login-body.studant-body .login-info {
+    width: 68%;
+}
+}
+@media only screen and (max-width: 858px){
+     /*-----24.07.21----- sayanti das----*/
+section.login-body.tutor-body .login-info {
+    width: 65.6%;
+}
+.login-body.studant-body .login-info {
+    width: 68.5%;
+}
+
+}
+@media only screen and (max-width: 809px){
+    /*-----24.07.21----- sayanti das----*/
+    .login-info {
+    width: 67%;
+}
+section.login-body.tutor-body .login-info {
+    width: 66.9%;
+}
+.login-body.studant-body .login-info {
+    width: 70%;
+}
+}
+ 
+@media only screen and (max-width: 767px){
+
+.container{max-width: 100%;}
+.page_hed h1, .page_hed h2, .page_hed h3, .page_hed h4, .page_hed h5, .page_hed h6 {
+    font-size: 25px;
+    line-height: 40px;
+}
+.page_hed p {
+    font-size: 15px;
+    margin-top: 7px;
+}
+
+
+/* bannersec */
+
+.bannersec .carousel-indicators {
+    flex-direction: row;
+    align-items: center;
+    bottom: 0;
+    top: inherit;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    
+}
+
+.bannersec .carousel-indicators .active{transform: rotate(90deg);}
+.bannersec .carousel-indicators li{margin: 0 7px !important;}
+.banner_tex_box{bottom: inherit; 
+top: 50%; 
+-webkit-transform: translateY(-50%);
+-moz-transform: translateY(-50%);
+transform: translateY(-50%);
+}
+
+/* How does it work? */
+.how_work_inr::before {
+    width: 341px;
+    height: 58px;
+}
+
+.top_reasons_inr .col-sm-4 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.top_reasons_inr .row {justify-content: center;}
+.top_reasons_box{margin-top: 20px;}
+.top_reasons_inr {
+    margin-top: 16px;
+}
+.meet_tutors_sec::before {
+    top: -30px;
+}
+
+/* Tutors - Why you should join our team? */
+
+.team_sec {
+    padding: 41px 0 55px;
+}
+.team_inr .col-sm-4 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.team_inr .row {justify-content: center;}
+.team_inr .row::before{display: none;}
+.team_inr::before {
+    top: -18px;
+    left: 0;
+}
+.team_btn {
+    margin-top: 23px;
+}
+.how_did_we_do .page_hed {
+    padding-bottom: 20px;
+}
+
+/* class_time */
+.class_time_iner {
+    padding: 55px 0 30px;
+}
+
+/*footer*/
+.footer_sec::before {
+    top: -41px;
+}
+
+
+.foot_top_inr .col-sm-3:nth-child(2) .foot_bx, .foot_top_inr .col-sm-3:nth-child(3) .foot_bx {
+    padding-left: 0;
+}
+
+.foot_botm_inr{flex-direction: column; text-align: center;}
+
+
+.profile_left_panel{
+    width: calc(100% - 20px);
+    margin: 0 10px;
+    margin-top: 20px;
+    position: inherit;
+}
+.profile_right_panel{
+    width: calc(100% - 20px);
+    margin: 0 10px;
+}
+.dark-area{
+    height: auto;
+}
+.profile-top {
+    padding: 20px 15px 10px 15px;
+}
+.profile_right_panel{
+    margin-top: 25px;
+}
+.profile-top em {
+    width: 100px;
+    height: 100px;
+}
+.profile-top h2 {
+    font-size: 20px;
+    margin: 10px 0px 5px 0;
+}
+.profile-rating{
+    margin: 10px 0px 5px 0;
+}
+.profile-top .addr , .profile-top .exp , .profile-bottom p{
+    font-size: 14px;
+}
+.profile-bottom {
+    padding: 5px 15px 15px;
+}
+.profile-bottom h6 {
+    font-size: 16px;
+    margin-top: 15px;
+}
+.pub_btns a{
+    font-size: 15px;
+    height: 38px;
+    line-height: 38px;
+}
+.pub_btns {
+    margin-top: 10px;
+}
+.social_iic01{
+    margin-top: 10px;
+}
+.profile_body {
+    padding: 20px 15px;
+}
+.profile-heading {
+    font-size: 18px;
+    line-height: 22px;
+}
+.skill_tutor li {
+    margin-right: 4px;
+    padding: 4px 9px;
+    font-size: 13px;
+    }
+.skill {
+    margin-bottom: 20px;
+}
+.about-pro p {
+    font-size: 13px;
+    line-height: 22px;
+}
+.profile_body iframe {
+    min-height: 320px;
+}
+.profile_body{
+    margin-bottom: 18px;
+}
+.aca_qua {
+    margin-top: 15px;
+    padding-bottom: 12px;
+}
+.aca_qua img {
+    width: 30px;
+    height: 30px;
+    margin-right: 7px;
+}
+.academic-details h3 {
+    font-size: 15.5px;
+    margin-bottom: 4px;
+}
+.academic-details h4{
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+.academic-details h5{
+    font-size: 13px;
+}
+.academic-details p {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 4px;
+}
+.test-heading {
+    display: block;
+    }
+.rating-overview{
+    margin-top: 8px;
+}
+.rating-overview span {
+    width: 44px;
+    height: 24px;
+    font-size: 12px;
+}
+.rating-overview span img {
+    width: 12px;
+}
+.rating-overview p {
+    margin-left: 6px;
+    font-size: 13px;
+}
+.test-heading{
+    padding-bottom: 10px;
+}
+.testimonail-user-sec p span , .testi-details p{
+    margin-right: 7px;
+}
+.testimonail-heading-part{
+    display: block;
+}
+.testimonail-heading-part h3{
+    font-size: 15px;
+    line-height: 17px;
+    margin-bottom: 5px;
+}
+.testi-details p{
+    line-height: 18px;
+    font-size: 12px;
+}
+.moreless-button5 {
+    font-size: 15px;
+    margin-top: 10px !important;
+}
+
+/*-----24.07.21----- sayanti das----*/
+.login-body , .login-body.studant-body{
+    background: #fff;
+    padding: 20px 10px;
+}
+.login-info , section.login-body.tutor-body .login-info , .login-body.studant-body .login-info{
+    width: 100%;
+    float: none;
+}
+section.login-body.tutor-body .login-info {
+    min-height: 540px;
+}
+section.login-body.tutor-body .login-info:after {
+    top: 94%;
+}
+.login-details{
+    margin: 0 auto;
+}
+.login-info:before{
+    top: 60px;
+}
+.login-from {
+    margin-top: 30px;
+}
+.form_area{
+    margin-bottom: 10px;
+}
+.texxt_box , .submit-login , .common-btns{
+    height: 45px;
+}
+.or-area{
+    margin-top: 0;
+}
+.fort-pass a{
+    margin-top: 15px;
+}
+.login-info {
+    min-height: 415px;
+}
+.login-info:after{
+    top: 92%;
+}
+footer.footer_sec.login-footer::before {
+    top: -30px;
+}
+.im-sec h3{
+    font-size: 17px;
+}
+.im-sec input[type="radio"] + label{
+    font-size: 16px;
+}
+.login-body.studant-body .login-info {
+    min-height: 630px;
+}
+.login-body.studant-body .login-info:after {
+    top: 95%;
+}
+/*24/07/21/puja*/
+
+/*tutor-search-result page*/
+.find_drop li, .find_select select {
+    font-size: 17px;
+}
+.lop_name_box{padding: 10px 15px;}
+.lop_name_para{padding: 10px 15px;}
+.search_lop_name_list{padding-left: 12px;}
+.search_lop_name_list li {
+    font-size: 15px;
+    }
+.profile-heading{
+        margin-bottom: 7px;
+}
+
+
+
+.user-right-top p {
+    font-size: 13.5px;
+    line-height: 18px;
+}
+.user-account-info {
+    margin-top: 15px;
+}
+.user-account-info h3 {
+    font-size: 18px;
+    margin-bottom: 7px;
+}
+.form_box_area label, .checkBox.new-cus span {
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 4px;
+}
+.checkBox.new-cus{
+    margin-bottom: 10px;
+}
+.form_box_area input[type], .form_box_area select{
+    height: 40px;
+}
+.form_box_area {
+    margin-bottom: 12px;
+}
+.sub_btn{
+    height: 40px;
+    font-size: 16px;
+    line-height: 40px;
+}
+.user-left-menu ul li a, .log-menu ul li a {
+    padding: 4px 0;
+    font-size: 15px;
+    }
+.show-actions{
+    left: 0;
+}
+.angle {
+    left: 10px;
+}
+
+.user-right-top-new p{
+    line-height: 18px;
+}
+
+.dash-btn {
+    height: 40px;
+    border: 0;
+    line-height: 40px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.new_rows.no-gutters > .col-sm-2{
+    padding-right: 0;
+}
+ul.pagination.new-pagination .page-link {
+    width: 33px;
+    font-size: 14px;
+    height: 33px;
+    line-height: 33px;
+}
+.user-right-top-ness {
+    padding: 20px 15px;
+}
+.user-right-top-ness p , .user-right-top-new p{
+    font-size: 14px;
+    line-height: 18px;
+}
+.dash-hr {
+    margin: 5px;
+    }
+    .account-area-tutor {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.account-area-tutor .meet_tutors_text h4 {
+    font-size:18px;
+    margin-top: 20px;
+}
+.user-right-top-ness .account-area-tutor .meet_tutors_text p {
+    margin-top:1px;
+}
+.account-area-tutor .ret_ul {
+    margin-top: 2px;
+}
+.account-area-tutor .subj_ul {
+    margin-top: 3px;
+}
+.account-area-tutor .meet_tutors_text small {
+    font-size: 14.5px;
+}
+.account-area-tutor .meet_tutors_items{
+    min-height: auto;
+}
+.account-area-tutor .subj_ul li b{
+    font-size: 14px;
+}
+.over_llp1 {
+    top: 5.5px;
+    right: 10px;
+}
+.dash-d1 input[type]{
+    padding-right: 28px !important;
+}
+}
+
+/*767px*/
+
+
+@media only screen and (max-width: 575px){ 
+
+/* class_time */
+
+.class_time .col-sm-4 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.class_time .row {justify-content: center;}
+.class_time_bx{margin-top: 15px;}
+
+.how_work_inr::before{display: none;}
+.how_work_box{margin-top: 30px;}
+.how_work_box p {
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 5px;
+}
+
+.meet_tutors_inr::before {
+    top: -33px;
+}
+.meet_tutors_panel{padding: 12px 10px;}
+
+
+
+
+.profile-top em {
+    width: 100px;
+    height: 100px;
+}
+.profile-top h2 {
+    font-size: 20px;
+    margin: 10px 0px 5px 0;
+}
+.profile-rating{
+    margin: 10px 0px 5px 0;
+}
+.profile-top .addr , .profile-top .exp , .profile-bottom p{
+    font-size: 14px;
+}
+.profile-bottom {
+    padding: 5px 10px 15px;
+}
+.profile-bottom h6 {
+    font-size: 16px;
+    margin-top: 15px;
+}
+.pub_btns a{
+    font-size: 15px;
+    height: 38px;
+    line-height: 38px;
+}
+.pub_btns {
+    margin-top: 10px;
+}
+.social_iic01{
+    margin-top: 10px;
+}
+.profile_body {
+    padding: 20px 15px;
+}
+.profile-heading {
+    font-size: 18px;
+    line-height: 22px;
+}
+.skill_tutor li {
+    margin-right: 4px;
+    padding: 4px 9px;
+    font-size: 13px;
+    }
+.skill {
+    margin-bottom: 20px;
+}
+.about-pro p {
+    font-size: 13px;
+    line-height: 22px;
+}
+.profile_body iframe {
+    min-height: 200px;
+}
+.aca_qua {
+    margin-top: 15px;
+    padding-bottom: 12px;
+}
+.aca_qua img {
+    width: 30px;
+    height: 30px;
+    margin-right: 7px;
+}
+.academic-details h3 {
+    font-size: 15.2px;
+    line-height: 19px;
+    margin-bottom: 4px;
+}
+.academic-details h4{
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+.academic-details h5{
+    font-size: 13px;
+}
+.academic-details p {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 4px;
+}
+.test-heading {
+    display: block;
+    }
+.rating-overview{
+    margin-top: 8px;
+}
+.rating-overview span {
+    width: 44px;
+    height: 24px;
+    font-size: 12px;
+}
+.rating-overview span img {
+    width: 12px;
+}
+.rating-overview p {
+    margin-left: 6px;
+    font-size: 13px;
+}
+.test-heading{
+    padding-bottom: 10px;
+}
+.testimonail-user-sec p span , .testi-details p{
+    margin-right: 7px;
+}
+.testimonail-heading-part{
+    display: block;
+}
+.testimonail-heading-part h3{
+    font-size: 15px;
+    line-height: 17px;
+    margin-bottom: 5px;
+}
+.testi-details p{
+    line-height: 18px;
+    font-size: 12px;
+}
+.moreless-button5 {
+    font-size: 15px;
+    margin-top: 10px !important;
+}
+/*-----24.07.21----- sayanti das----*/
+.login-details {
+    width: 90%;
+    margin: 0 auto;
+}
+.login-details h2 {
+    font-size: 22px;
+    margin-bottom: 2px;
+    }
+.login-details p{
+    font-size: 15px;
+}
+.login-info:after {
+    top: 91.5%;
+}
+
+/*24/07/21/puja*/
+
+/*tutor-search-result page*/
+.search_right_top h6, .search_right_top h1 {
+    font-size: 13px;
+}
+.stor_by strong {
+    font-size: 13px;
+}
+.search_lop_left{width: 100%;}
+.search_lop_right{width: 100%;}
+.search_lop{padding-left: 0;}
+.search_lop_right{padding-left: 0;}
+
+/*24/07/21/puja*/
+
+/*tutor-search-result page*/
+.search_lop_name {
+    width: 59%;
+}
+.search_lop_name_list {
+    width: 41%;
+    padding-right: 5px;
+    padding-left: 10px;
+}
+section.login-body.tutor-body .login-info {
+    min-height: 529px;
+}
+section.login-body.tutor-body .login-info:after {
+    top: 94%;
+}
+.login-body.studant-body .login-info:after {
+    top: 95%;
+}
+.texxt_box{
+    padding: 0 10px;
+}
+.password-in .texxt_box{
+    padding-right: 30px;
+    }
+.field-icon {
+    right: 10px;
+    font-size: 14px;
+}
+.or-area span{
+    font-size: 13px;
+}
+.login-info {
+    min-height: 415px;
+}
+.search_right_top{flex-direction: column;}
+.search_right_top h6, .search_right_top h1{width: 100%;}
+.stor_by{width: 100%;
+text-align: right;
+justify-content: flex-end;}
+.check-box input[type="checkbox"] + label {
+    padding-left: 30px;
+    }
+
+.user-right-top p {
+    font-size: 13.5px;
+    line-height: 18px;
+}
+.user-account-info {
+    margin-top: 15px;
+}
+.user-account-info h3 {
+    font-size: 18px;
+    margin-bottom: 7px;
+}
+.form_box_area label, .checkBox.new-cus span {
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 4px;
+}
+.checkBox.new-cus{
+    margin-bottom: 10px;
+}
+.form_box_area input[type], .form_box_area select {
+    height: 40px;
+    font-size: 12px;
+}
+.form_box_area {
+    margin-bottom: 10px;
+}
+.sub_btn{
+    height: 40px;
+    font-size: 16px;
+    line-height: 40px;
+}
+.user-left-top {
+    width: 45%;
+    padding: 15px 5px;
+}
+.new-lft-bottom {
+    width: 55%;
+}
+.dash-btn {
+    margin-top: 5px;
+}
+.deen{
+    padding: 2px 8px;
+    font-size: 13px;
+}
+.user-right-top-ness {
+    padding: 20px 15px;
+}
+.user-right-top-ness p , .user-right-top-new p{
+    font-size: 14px;
+    line-height: 18px;
+}
+.dash-hr {
+    margin: 5px;
+    }
+    .account-area-tutor {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.account-area-tutor .meet_tutors_text h4 {
+    font-size:18px;
+    margin-top: 20px;
+}
+.user-right-top-ness .account-area-tutor .meet_tutors_text p {
+    margin-top:1px;
+}
+.account-area-tutor .ret_ul {
+    margin-top: 2px;
+}
+.account-area-tutor .subj_ul {
+    margin-top: 3px;
+}
+.account-area-tutor .meet_tutors_text small {
+    font-size: 14.5px;
+}
+.account-area-tutor .meet_tutors_items{
+    min-height: auto;
+}
+.class-feild {
+    background: #f7f7f7;
+    padding: 20px 10px 0;
+}
+.form_box_area input[type], .form_box_area select{
+    padding: 0 6px;
+}
+} 
+/*575px*/
+
+
+
+@media only screen and (max-width: 520px){ 
+    .tab-rii {
+    display: block;
+}
+.nav-tabs{
+    width: 100%;
+}
+}
+
+@media only screen and (max-width: 500px){ 
+.login-body.studant-body .login-info:after {
+    top: 95%;
+}
+@media only screen and (max-width: 480px){ 
+.page_hed h1, .page_hed h2, .page_hed h3, .page_hed h4, .page_hed h5, .page_hed h6 {
+    font-size: 23px;
+    line-height: 30px;
+}
+
+
+/* bannersec */
+
+.banner_box img {
+    height: 262px;
+}
+.banner_tex strong {
+    font-size: 23px;
+    line-height: 38px;
+}
+.banner_tex b {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+/* Find Tutors */
+.find_btn .pg_btn {
+    font-size: 14px;
+}
+
+.how_work_inr::before {
+   display: none;
+}
+
+
+.makes_special_img {
+    padding-right: 7px;
+}
+.special_img_bx:first-child::before{width: 30px;
+height: 59px; background-size: 100%;left: -8px;
+top: -7px;}
+.special_img_bx:first-child::after{
+    background-size: 100%;
+    width: 65px;
+height: 74px;
+}
+.special_img_bx:last-child::before{width: 75px;
+height: 97px;
+background-size: 100%;}
+.special_img_bx:last-child::after{width: 38px;
+height: 75px;
+background-size: 100%;}
+.meet_tutors_sec::before {
+    top: -23px;
+}
+.meet_tutors_inr{margin-top: 23px;}
+.meet_tutors_inr{padding: 18px 11px;
+border-radius: 30px;}
+.meet_tutors_bg{display: none;}
+.makes_special_sec::after {
+    width: 173px;
+    height: 134px;
+}
+.top_reasons_inr .col-sm-4 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.top_reasons_box{min-height: auto;}
+
+.team_inr .col-sm-4 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.team_box {
+    padding: 0 20px 10px;
+    min-height: auto;
+    margin-top: 19px;
+    border-radius: 15px;
+}
+.team_box span {
+    padding: 15px 0 11px;
+    width: 40px;
+    font-size: 16px;
+}
+.team_sec {
+    padding: 36px 0 37px;
+}
+.how_did_we_do::before{top: -5px;}
+.how_did_we_do_inr {
+    margin-top: 6px;
+}
+.how_did_inr_box p {
+    font-size: 14px;
+    line-height: 25px;
+}
+.how_did_inr_box{min-height: 156px;}
+.how_did_inr_img .media span img {
+    width: 60px;
+    height: 60px;
+}
+
+.how_did_we_do::after{background-size: 100% 100%;}
+
+.footer_sec::before {
+    background-size: 100% 100%;
+}
+.footer_sec{margin-top: 41px;}
+.foot_top_inr .col-sm-3 , .foot_top_inr .col-sm-3:last-child{
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.foot_bx li {
+    font-size: 13px;
+}
+.foot_bx h4 {
+    margin-bottom: 6px;
+    font-size: 16px;
+line-height: 24px;
+}
+.foot_sos_box li a {
+    width: 24px;
+    height: 24px;
+}
+.foot_sos_box li {
+    margin-right: 2px;
+}
+.foot_bx {
+    padding-bottom: 10px;
+}
+
+.footer_sec::after {
+    width: 69px;
+    height: 113px;
+}
+
+.foot_top::after{right: 6px;
+width: 141px;
+height: 30px;top: -33px;}
+
+.find_tutors_inr .col-sm-3 {
+   flex: 0 0 100% !important;
+max-width: 100% !important;
+margin-top: 4px;
+}
+
+.makes_special_sec::after {
+    width: 57px;
+    height: 47px;
+}
+
+.navbar-brand img{width: 100px;}
+.pg_btn {
+    font-size: 13px;
+}
+.hed_btn li {
+    margin-right: 0px;
+}
+.hed_btn {
+    right: 64px;
+}
+/*-----24.07.21----- sayanti das----*/
+.im-sec h3 {
+    font-size: 16px;
+
+    padding-right: 10px;
+    margin-right: 10px;
+
+}
+.im-sec input[type="radio"] + label {
+    font-size: 14px;
+}
+.login-body, .login-body.studant-body {
+    background: #fff;
+    padding: 20px 15px;
+}
+.login-details h2 {
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+.login-info:before {
+    top: 52px;
+}
+.im-sec input[type="radio"] + label{
+    padding-left: 23px;
+    }
+   .im-sec{
+    margin-bottom: 15px;
+   }
+   .im-sec input[type="radio"] + label , .im-sec input[type="radio"]:checked + label{
+    width: 100%;
+    background-size: 18px;
+    margin-top:0px;
+    background-position: 0;
+}
+
+/*24/07/21/puja*/
+
+/*tutor-search-result page*/
+.search_lop_name {
+    width: 100%;
+}
+.search_lop_name_list {
+    width: 100%;
+    border-left: 0;
+    border-top: solid #ebebeb 1px;
+    padding-left: 0;
+    padding-top: 10px;
+    margin-top: 5px;
+}
+.search_lop_name h4 {
+    font-size: 18px;
+    line-height: 26px;
+}
+.search_lop_name {
+    margin-top: 10px;
+}
+.search_lop{margin-top: 13px;}
+.search_lop_name_list li {
+    font-size: 14px;
+    margin-top: 6px;
+}
+
+footer.footer_sec.login-footer::before {
+    top: -40px;
+}
+   .foot_arw.fixed{bottom: 125px;}
+
+.user-left-top {
+    width: 100%;
+}
+
+.new-lft-bottom{
+    width: 100%;
+}
+.custom_tab li {
+    margin-right: 14px;
+}
+} 
+ 
+/*480px*/
+
+@media only screen and (max-width: 400px){ 
+.page_hed h1, .page_hed h2, .page_hed h3, .page_hed h4, .page_hed h5, .page_hed h6 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.makes_faq{padding-right: 0;}
+.makes_special_sec::after {
+    width: 112px;
+    height: 90px;
+}
+.makes_faq_bx .card-header a{padding: 10px 29px 10px 19px;}
+.makes_faq_bx .btn-link {
+    font-size: 13px;
+}
+.makes_faq_bx .btn-link::before {
+    right: 8px;
+}
+.banner_tex strong {
+    font-size: 21px;
+    line-height: 29px;
+}
+.how_work_inr{margin-top: 0;}
+.makes_special_img .special_img_bx:last-child{padding-left: 0;}
+.special_img_bx img {
+    height: 286px;
+}
+
+.special_img_bx:last-child::after {
+    left: 0;
+}
+.meet_tutors_sec::before {
+    top: -8px;
+}
+.foot_top_inr .col-sm-3, .foot_top_inr .col-sm-3:last-child {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.meet_tutors_items{padding: 27px 13px 20px;}
+.subj_ul li b{padding: 0 7px; font-size: 12px; margin-top: 6px !important;}
+
+.subj_ul li{padding: 0 0;}
+.subj_ul {
+    margin-top: 0;
+}
+.meet_tutors_text p {
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 13px;
+}
+.how_did_we_do::after{height: 12px;bottom: -11px;}
+.footer_sec::before{height: 30px;top: -28px;}
+.foot_botm {
+    padding: 18px 0 19px;
+}
+
+.hed_btn .pg_btn{font-size: 10px !important;
+height: 28px;
+line-height: 28px;}
+.hed_btn li {
+    margin-right: 0;
+}
+.navbar-brand img{width: 100px;}
+.nav_top .navbar-toggler {
+    width: 34px;
+    height: 32px;
+}
+.nav_top .navbar-toggler .icon-bar {
+    width: 19px;
+    height: 1px;
+}
+.nav_top .navbar-toggler .icon-bar + .icon-bar {
+    margin-top: 4px;
+}
+.nav_top .navbar-toggler.showtoggle .icon-bar:nth-child(3){margin-top: 1px;}
+.nav_top .navbar-toggler.showtoggle .icon-bar:nth-child(2){
+    margin-top: -3px;
+}
+.nav_top .navbar-toggler.showtoggle {
+    padding-left: 5px !important;
+}
+.hed_btn {
+    right: 52px;
+}
+.navbar-brand img {
+    width: 69px;
+}
+.top_mar {
+    margin-top: 40px;
+}
+.nav_top .navbar-toggler{margin-top: 10px; margin-bottom: 10px;    }
+.class_time_bx p {
+    font-size: 13px;
+    line-height: 16px;
+    margin-top: 3px;
+}
+.class_time_bx h5 {
+    font-size: 18px;
+    line-height: 31px;
+    margin-top: 18px;
+}
+/*-----24.07.21----- sayanti das----*/
+
+.login-details {
+    width: 98%;
+    margin: 0 auto;
+}
+.login-details p {
+    font-size: 13.5px;
+    line-height: 16px;
+}
+footer.footer_sec.login-footer::before {
+    top: -28px;
+}
+.login-body.studant-body .login-info:after {
+    top: 93%;
+}
+.login-info:after {
+    top: 89.5%;
+}
+.im-sec h3 {
+    font-size: 16px;
+    padding-right: 6px;
+    margin-right: 6px;
+}
+.check-box label.checklabeel{
+    font-size: 13px;
+    line-height: 22px;
+}
+.login_menu {
+    right: 65px;
+}
+[tooltip]:not([flow])::before, [tooltip]:not([flow])::after, [tooltip][flow^="up"]::before, [tooltip][flow^="up"]::after {
+    left: 0;
+}
+[tooltip]::after {
+    content: attr(tooltip);
+    font-size: 11px;
+    line-height: 15px;
+    width: 13em;
+    }
+    .custom_tab li a {
+    font-size: 15px;
+}
+   .small_screen31 {
+    width: 100%;
+}
+}
+
+
+/*400px*/
+
+@media only screen and (max-width: 327px){ 
+    .login-info:before {
+    top: 64px;
+}
+.im-sec input[type="radio"] + label , .im-sec input[type="radio"]:checked + label{
+    width: 100%;
+    background-size: 16px;
+    margin-top: 5px;
+    background-position: 0;
+}
+.im-sec input[type="radio"] + label{
+    padding-left: 20px;
+    }
+   .im-sec{
+    margin-bottom: 15px;
+   }
+.login-info:after {
+    top: 89.5%;
+}
+/*24/07/21/puja*/
+
+/*tutor-search-result page*/
+.search_lop_left em img {
+    height: 99px;
+    width: 99px;
+}
+.login-body.studant-body .login-info:after {
+    top: 93.8%;
+}
+.profile-top .addr, .profile-top .exp, .profile-bottom p {
+    font-size: 13px;
+}
+.custom_tab li a {
+    font-size: 14px;
+}
+   
+}

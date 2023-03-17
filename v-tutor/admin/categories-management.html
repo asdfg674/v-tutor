@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="A fully featured admin theme which can be used to build CRM, CMS, etc.">
+<meta name="author" content="Coderthemes">
+<link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
+<title>V-tutor</title>
+<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="assets/css/core.css" rel="stylesheet" type="text/css">
+<link href="assets/css/icons.css" rel="stylesheet" type="text/css">
+<link href="assets/css/responsive.css" rel="stylesheet" type="text/css">
+<script src="https://kit.fontawesome.com/446e463225.js" crossorigin="anonymous"></script>
+<script src="assets/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="fixed-left">
+
+<!-- Begin page -->
+<div id="wrapper"> 
+  
+  <!-- Top Bar Start -->
+  <div class="topbar"> 
+    <!-- LOGO -->
+    <div class="topbar-left">
+      <div class="text-center"> <a href="index.html" class="logo"><a href="index.html" class="logo"><img src="assets/images/logo.png" alt=""></a> </div>
+    </div>
+    <!-- Button mobile view to collapse sidebar menu -->
+    <div class="navbar navbar-default" role="navigation">
+      <div class="container">
+        <div class="">
+          <div class="pull-left">
+            <button class="button-menu-mobile open-left"> <i class="fa fa-bars"></i> </button>
+            <span class="clearfix"></span> </div>
+          <ul class="nav navbar-nav navbar-right pull-right">
+            <li class="dropdown"> <a href="#" class="dropdown-toggle profile" data-toggle="dropdown" aria-expanded="true"><img src="assets/images/users/avatar-1.jpg" alt="user-img" class="img-circle"> </a>
+              <ul class="dropdown-menu">
+                  <li><a href="javascript:void(0)"><i class="fas fa-user-circle"></i> Profile</a></li>
+                  <li><a href="javascript:void(0)"><i class="fas fa-cog"></i> Change Password</a></li>
+                  <li><a href="javascript:void(0)"><i class="fas fa-power-off"></i> Logout</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <!--/.nav-collapse --> 
+      </div>
+    </div>
+  </div>
+  <!-- Top Bar End --> 
+  
+  <!-- ========== Left Sidebar Start ========== -->
+  
+  <div class="left side-menu">
+    <div class="sidebar-inner slimscrollleft">
+      <div class="user-details">
+        <div class="pull-left"> <img src="assets/images/users/avatar-1.jpg" alt="" class="thumb-md img-circle"> </div>
+        <div class="user-info">
+          <div class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">John Doe <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                  <li><a href="javascript:void(0)"><i class="fas fa-user-circle"></i> Profile</a></li>
+                      <li><a href="javascript:void(0)"><i class="fas fa-cog"></i> Change Password</a></li>
+                      <li><a href="javascript:void(0)"><i class="fas fa-power-off"></i> Logout</a></li>
+              </ul>
+          </div>
+          <p class="text-muted m-0">Administrator</p>
+        </div>
+      </div>
+      <!--- Divider -->
+      <div id="sidebar-menu">
+          <ul>
+              <li><a href="index.html" class="waves-effect"><i class="fa fa-tachometer" ria-hidden="true"></i><span>Dashboard</span></a></li>
+                <li><a href="categories-management.html" class="waves-effect active"><i class="fa fa-book" aria-hidden="true"></i><span> Categories Management</span></a></li>
+                <li><a href="#" class="waves-effect"><i class="fas fa-hand-holding-usd" aria-hidden="true"></i><span> Commission Management</span></a></li>
+                <li><a href="#" class="waves-effect"><i class="fas fa-user-tie"></i><span>Tutor
+                Management</span></a></li>
+                <li><a href="#" class="waves-effect"><i class="far fa-user"></i><span>Student Management
+                </span></a></li>
+                <li><a href="#" class="waves-effect"><i class="fas fa-user"></i><span> Profile Manage</span></a></li>
+                 <li><a href="#" class="waves-effect"><i class="fas fa-clock"></i><span>Manage
+                  Availabiliti</span></a></li>
+                 <li><a href="#" class="waves-effect"><i class="fa fa-check-square-o" aria-hidden="true"></i><span>Booking Management</span></a></li>
+                 <li><a href="#" class="waves-effect"><i class="fa fa-star" aria-hidden="true"></i><span>Rating Management
+                 System</span></a></li>
+                 <li><a href="#" class="waves-effect"><i class="far fa-credit-card" aria-hidden="true"></i><span>Process Payment to Tutor</span></a></li>
+              
+          </ul>
+          <div class="clearfix"></div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+  <div class="content-page manage-admin-user-pg"> 
+    <!-- Start content -->
+    <div class="content">
+      <div class="container"> 
+        
+        <!-- Page-Title -->
+        <div class="row">
+          <div class="col-sm-12">
+            <h4 class="pull-left page-title">Categories Management</h4>
+            <ol class="breadcrumb pull-right">
+                <li> <a href="categories-management-add.html"><i class="far fa-plus-square" aria-hidden="true"></i> Add Categories</a></li>
+              </ol>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="panel panel-default">
+              <div class="panel-heading rm02 rm04">
+                <form role="form">
+                  <div class="form-group">
+                    <label for="category">Category Name</label>
+                    <input type="text" placeholder="Category Name" id="category" class="form-control">
+                  </div>
+                  <div class="form-group">
+                        <label for="search">Search By Status</label>
+                       <select class="form-control rm06" name="status">
+                          <option value="A">Active</option>
+                          <option value="I">Inactive</option>                          
+                          <option value="U">Unverified</option>
+                        </select>
+                    </div>
+                  <div class="rm05">
+                    <button class="btn btn-primary waves-effect waves-light w-md" type="submit">Search</button>
+                  </div>
+                </form>
+              </div>
+              <div class="panel-body">
+                <div class="row">
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="table-responsive">
+                      <table class="table table-bordered table-striped">
+                        <thead>
+                          <tr>
+                            <th>Name</th>
+                            <th>Category Name</th>
+                            <th>Mobile Number</th>
+                            <th>Email Id</th>
+                            <th>Status</th>
+                            <th class="rm07">Action</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                        
+                          <tr>
+                            <td>Sompa sen</td>
+                            <td>Book</td>
+                            <td>0986543278</td>
+                            <td>su@gmail.com</td>
+                            <td>Inactive</td>
+
+                            <td class="rm07">
+                            <a href="javascript:void(0);" class="action-dots" id="action1"><img src="assets/images/action-dots.png" alt=""></a>
+                            <div class="show-actions" id="show-action1" style="display: none;">
+                                <span class="angle"><img src="assets//images/angle.png" alt=""></span>
+                                <ul>
+                                    <li><a href="categories-management-view.html">View</a></li>
+                                    <li><a href="#">Activate</a></li>
+                                    <li><a href="#">Delete</a></li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          
+                          <tr>
+                           <td>puja sen</td>
+                           <td>Book</td>
+                           <td>0986543278</td>
+                            <td>puja@gmail.com</td>
+                            <td>active</td>
+
+                            <td class="rm07">
+                            <a href="javascript:void(0);" class="action-dots" id="action2"><img src="assets/images/action-dots.png" alt=""></a>
+                            <div class="show-actions" id="show-action2" style="display: none;">
+                                <span class="angle"><img src="assets//images/angle.png" alt=""></span>
+                                <ul>
+                                     <li><a href="categories-management-view.html">View</a></li>
+                                    <li><a href="#">Deactivate </a></li>
+                                    <li><a href="#">Delete</a></li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>Jon Sen</td>
+                            <td>Book</td>
+                            <td>0986543278</td>
+                            <td>Jon@gmail.com</td>
+                            <td>Inactive</td>
+
+                            <td class="rm07">
+                            <a href="javascript:void(0);" class="action-dots" id="action3"><img src="assets/images/action-dots.png" alt=""></a>
+                            <div class="show-actions" id="show-action3" style="display: none;">
+                                <span class="angle"><img src="assets//images/angle.png" alt=""></span>
+                                <ul>
+                                    <li><a href="categories-management-view.html">View</a></li>
+                                    <li><a href="#">Activate </a></li>
+                                    <li><a href="#">Delete</a></li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>jon sen</td>
+                            <td>Book</td>
+                            <td>0986543278</td>
+                            <td>jon@gmail.com</td>
+                            <td>Inactive</td>
+
+                            <td class="rm07">
+                            <a href="javascript:void(0);" class="action-dots" id="action4"><img src="assets/images/action-dots.png" alt=""></a>
+                            <div class="show-actions" id="show-action4" style="display: none;">
+                                <span class="angle"><img src="assets//images/angle.png" alt=""></span>
+                                <ul>
+                                    <li><a href="categories-management-view.html">View</a></li>
+                                    <li><a href="#">Activate </a></li>
+                                    <li><a href="#">Delete</a></li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>Puja Sen</td>
+                            <td>Book</td>
+                            <td>0986543278</td>
+                            <td>puja@gmail.com</td>
+                            <td>Inactive</td>
+
+                            <td class="rm07">
+                            <a href="javascript:void(0);" class="action-dots" id="action5"><img src="assets/images/action-dots.png" alt=""></a>
+                            <div class="show-actions" id="show-action5" style="display: none;">
+                                <span class="angle"><img src="assets//images/angle.png" alt=""></span>
+                                <ul>
+                                    <li><a href="categories-management-view.html">View</a></li>
+                                    <li><a href="#">Activate </a></li>
+                                    <li><a href="#">Delete</a></li>
+                                </ul>
+                              </div>
+                            </td>
+                          </tr>
+                                                   
+                          
+                          
+                        </tbody>
+                      </table>
+                    </div>
+                    
+                    
+                    <ul class="pagination">
+                      <li class="paginate_button previous disabled"><a href="#">Previous</a></li>
+                      <li class="paginate_button active"><a href="#">1</a></li>
+                      <li class="paginate_button"><a href="#">2</a></li>
+                      <li class="paginate_button"><a href="#">3</a></li>
+                      <li class="paginate_button"><a href="#">4</a></li>
+                      <li class="paginate_button"><a href="#">5</a></li>
+                      <li class="paginate_button"><a href="#">6</a></li>
+                      <li class="paginate_button next"><a href="#">Next</a></li>
+                    </ul>
+                    
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- End row --> 
+        
+      </div>
+      <!-- container --> 
+      
+    </div>
+    <!-- content -->
+    
+    <footer class="footer text-right">
+                    Copyright &copy; 2021 <a href="index.html">V-tutor</a>  All rights reserved. 
+                </footer>
+  </div>
+ 
+  
+</div>
+<!-- END wrapper --> 
+
+<script>
+            var resizefunc = [];
+        </script> 
+
+<!-- jQuery  --> 
+<script src="assets/js/jquery.min.js"></script> 
+<script src="assets/js/bootstrap.min.js"></script> 
+<script src="assets/js/detect.js"></script> 
+<script src="assets/js/fastclick.js"></script> 
+<script src="assets/js/jquery.slimscroll.js"></script> 
+<script src="assets/js/jquery.blockUI.js"></script> 
+<script src="assets/js/waves.js"></script> 
+<script src="assets/js/wow.min.js"></script> 
+<script src="assets/js/jquery.nicescroll.js"></script> 
+<script src="assets/js/jquery.scrollTo.min.js"></script> 
+<script src="assets/js/jquery.app.js"></script>
+
+
+
+
+
+<script>
+$(document).ready(function(){
+    $("#action1").click(function(){
+        $("#show-action1").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#action2").click(function(){
+        $("#show-action2").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#action3").click(function(){
+        $("#show-action3").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#action4").click(function(){
+        $("#show-action4").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#action5").click(function(){
+        $("#show-action5").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#action6").click(function(){
+        $("#show-action6").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#action7").click(function(){
+        $("#show-action7").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#action8").click(function(){
+        $("#show-action8").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#action9").click(function(){
+        $("#show-action9").slideToggle();
+    });
+});
+
+$(document).ready(function(){
+    $("#action10").click(function(){
+        $("#show-action10").slideToggle();
+    });
+});
+</script>
+<script type="text/javascript">
+  
+$(document).on('click', function () {
+  var $target = $(event.target);
+  if (!$target.closest('#show-action1').length
+    && !$target.closest('#action1').length
+    && $('#show-action1').is(":visible")) {
+    $('#show-action1').slideUp();
+  }
+  if (!$target.closest('#show-action2').length
+    && !$target.closest('#action2').length
+    && $('#show-action2').is(":visible")) {
+    $('#show-action2').slideUp();
+  }
+  if (!$target.closest('#show-action3').length
+    && !$target.closest('#action3').length
+    && $('#show-action3').is(":visible")) {
+    $('#show-action3').slideUp();
+  }
+  if (!$target.closest('#show-action4').length
+    && !$target.closest('#action4').length
+    && $('#show-action4').is(":visible")) {
+    $('#show-action4').slideUp();
+  }
+  if (!$target.closest('#show-action5').length
+    && !$target.closest('#action5').length
+    && $('#show-action5').is(":visible")) {
+    $('#show-action5').slideUp();
+  }
+  if (!$target.closest('#show-action6').length
+    && !$target.closest('#action6').length
+    && $('#show-action6').is(":visible")) {
+    $('#show-action6').slideUp();
+  }
+  if (!$target.closest('#show-action7').length
+    && !$target.closest('#action7').length
+    && $('#show-action7').is(":visible")) {
+    $('#show-action7').slideUp();
+  }
+  if (!$target.closest('#show-action8').length
+    && !$target.closest('#action8').length
+    && $('#show-action8').is(":visible")) {
+    $('#show-action8').slideUp();
+  }
+  if (!$target.closest('#show-action9').length
+    && !$target.closest('#action9').length
+    && $('#show-action9').is(":visible")) {
+    $('#show-action9').slideUp();
+  }
+  if (!$target.closest('#show-action10').length
+    && !$target.closest('#action10').length
+    && $('#show-action10').is(":visible")) {
+    $('#show-action10').slideUp();
+  }
+});
+
+</script>
+</body>
+</html>
